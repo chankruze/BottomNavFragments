@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bottom Nav Fragments</string>
+    <string name="title_activity_bottom_navigation">BottomNavigation</string>
+    <string name="title_home">Home</string>
+    <string name="title_calls">Calls</string>
+    <string name="title_camera">Camera</string>
+    <string name="title_messages">Messages</string>
+    <string name="title_recorder">Recorder</string>
+</resources>
